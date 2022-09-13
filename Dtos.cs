@@ -1,0 +1,1 @@
+public record LoginPost(string Account, string Password);
